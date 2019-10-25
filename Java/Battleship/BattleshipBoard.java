@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 /**
- * Emma Willard (willa115, 5040938)
+ * Emma Willard 
+ * This code needs to be cleaned up and optimized!
  */
 
 //Run BattleshipBoard's main method to play
